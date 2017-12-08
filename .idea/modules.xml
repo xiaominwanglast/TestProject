@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../H5/.idea/H5.iml" filepath="$PROJECT_DIR$/../H5/.idea/H5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Normal_DD_InitData/.idea/Normal_DD_InitData.iml" filepath="$PROJECT_DIR$/../Normal_DD_InitData/.idea/Normal_DD_InitData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Normal_DD_Selenium/.idea/Normal_DD_Selenium.iml" filepath="$PROJECT_DIR$/../Normal_DD_Selenium/.idea/Normal_DD_Selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Slackers/.idea/Slackers.iml" filepath="$PROJECT_DIR$/../Slackers/.idea/Slackers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TestProject.iml" filepath="$PROJECT_DIR$/.idea/TestProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../android_warning/.idea/android_warning.iml" filepath="$PROJECT_DIR$/../android_warning/.idea/android_warning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../apitest/.idea/apitest.iml" filepath="$PROJECT_DIR$/../apitest/.idea/apitest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../csv_xml/.idea/csv_xml.iml" filepath="$PROJECT_DIR$/../csv_xml/.idea/csv_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dd_selenium/.idea/dd_selenium.iml" filepath="$PROJECT_DIR$/../dd_selenium/.idea/dd_selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dfttapptest/.idea/dfttapptest.iml" filepath="$PROJECT_DIR$/../dfttapptest/.idea/dfttapptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../diandadata/.idea/diandadata.iml" filepath="$PROJECT_DIR$/../diandadata/.idea/diandadata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../madai/.idea/madai.iml" filepath="$PROJECT_DIR$/../madai/.idea/madai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../monkey_Test/.idea/monkey_Test.iml" filepath="$PROJECT_DIR$/../monkey_Test/.idea/monkey_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Monkey_performance/.idea/monkey_test.iml" filepath="$PROJECT_DIR$/../Monkey_performance/.idea/monkey_test.iml" />
+    </modules>
+  </component>
+</project>

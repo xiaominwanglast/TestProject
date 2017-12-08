@@ -1,0 +1,42 @@
+1512354018590	geckodriver	INFO	geckodriver 0.18.0
+1512354018600	geckodriver	INFO	Listening on 127.0.0.1:50649
+1512354020727	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1512354021748	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1512354023041	Marionette	INFO	Enabled via --marionette
+[Child 6928] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6928] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512354026883	Marionette	INFO	Listening on port 50667
+1512354026988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512354027117	Marionette	DEBUG	Register listener.js for window 4294967297
+1512354027230	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512354027755	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512354027755	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512354028432	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.251:31100/users/login?path=/"
+1512354028436	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.251:31100/users/login?path=/"
+1512354031773	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.1.251:31100/users/login?path=/"
+1512354032830	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.251:31100/users/login?path=/"
+1512354032831	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.251:31100/users/login?path=/"
+1512354033179	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.251:31100/index"
+1512354033184	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.251:31100/index"
+1512354033526	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512354033781	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512354034537	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 10428] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Got a removal of an actor we didn't know about: server1.conn0.child1/domnode131
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode132
+[Parent 14940] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ "http://211.152.32.59:48000/pickGoods/pickList"
+[Parent 8356] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8356] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13792] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13792] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
